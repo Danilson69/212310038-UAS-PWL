@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Kebun Raya Bogor",
+    "city": "Bogor",
+    "address": "Kebun raya di Kota Bogor, Jawa Barat",
+    "distance": 870,
+    "price": 15000,
+    "maxGroupSize": 10,
+    "desc": "Kebun Raya Bogor atau Kebun Botani Bogor adalah sebuah kebun botani besar yang terletak di Kota Bogor, Indonesia. Kebun ini dioperasikan oleh Badan Riset dan Inovasi Nasional. Kebun ini terletak di pusat kota Bogor dan bersebelahan dengan kompleks istana kepresidenan Istana Bogor.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Curug Cilember",
+    "city": "Bogor",
+    "address": "Megamendung, Bogor, Jawa Barat, Indonesia",
+    "distance": 500,
+    "price": 25000,
+    "maxGroupSize": 8,
+    "desc": "Curug Cilember adalah kumpulan tujuh air terjun yang terletak di Megamendung (Puncak), Bogor. Tempat rekreasi ini memiliki area berkemah, area jalan setapak, dan lokasi untuk melihat perbukitan Gunung Pangrango yang indah.Salah satu air terjun terbaik yang wajib dikunjungi di Bogor adalah Curug Cilember. Lewat paket tur ini, kamu akan menikmati keindahan Cilember yang memiliki tujuh air terjun loh, enggak cuma satu saja. Namun, kamu perlu trekking untuk mengunjungi ketujuh curug tersebut. Di sini, kamu enggak hanya bermain air saja, tetapi juga sekaligus menikmati suasana hutan dan pegunungan yang masih asri.Lebih asyiknya lagi, tur ini juga menyediakan paket berkemah di Curug Cilember. Kapan lagi bisa berkemah di dekat air terjun? Buat kamu yang enggak membawa peralatan berkemah, bisa loh menginap di villa kayu yang punya pemandangan langsung ke air terjun.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Pura Luhur Uluwatu",
+    "city": "Bali",
+    "address": "Pecatu, Kec. Kuta Selatan, Kabupaten Badung, Bali",
+    "distance": 500,
+    "price": 100000,
+    "maxGroupSize": 8,
+    "desc": "Pura Uluwatu terletak pada ketinggian 97 meter dari permukaan laut. Di depan pura terdapat hutan kecil yang disebut alas kekeran, berfungsi sebagai penyangga kesucian pura. Pura Uluwatu juga menjadi terkenal karena tepat di bawahnya adalah pantai Pecatu yang sering kali digunakan sebagai tempat untuk olahraga selancar, bahkan event internasional sering kali diadakan di sini. Ombak pantai ini terkenal amat cocok untuk dijadikan tempat selancar selain keindahan alam Bali yang memang amat cantik.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Goa Pindul",
+    "city": "Yogyakarta",
+    "address": "Gunungbang, Bejiharjo, Kec. Karangmojo, Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta",
+    "distance": 500,
+    "price": 45000,
+    "maxGroupSize": 4,
+    "desc": "Goa Pindul di Daerah Istimewa Yogyakarta adalah salah satu tempat wisata paling terkenal di kota ini. Dan itu bukan tanpa alasan. Keindahan goa membuat orang tertarik dan terpesona, sementara aksesnya yang mudah membuatnya nyaman bagi pengunjung untuk menjelajah.Berlokasi di desa wisata Kabupaten Gunung Kidul, Goa Pindul Jogja yang dibuka pada 10 Oktober 2010 ini memiliki daya tarik yang unik. Dengan panjang aliran sungai sekitar 350 meter, terdapat 3 zona yang bisa kamu jelajahi di dalam goa yang pastinya menawarkan pengalaman yang menakjubkan.Jangan lewatkan stalaktit di dalam gua! Ini adalah jenis formasi yang menggantung dari langit-langit gua. Salah satu stalaktitnya adalah yang terbesar di Gua Pindul dan terbesar ke-4 di dunia; dibutuhkan 5 orang berpegangan tangan untuk mengelilinginya. Di dinding gua, kita bisa melihat lukisan abstrak dari air, batu kristal, dan susu bulan yang menambah keindahan gua.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Nusa Penida",
+    "city": "Bali",
+    "address": "Kabupaten Klungkung, provinsi Bali",
+    "distance": 500,
+    "price": 500000,
+    "maxGroupSize": 8,
+    "desc": "Nusa Penida adalah salah satu destinasi wisata terbaik di area Bali yang menjadi favorit wisatawan. Dan hal ini tentu saja bukan tanpa alasan. Ada banyak pesona alam dengan pemandangan yang tiada duanya. Sebut saja Kelingking Beach, Angel’s Billabong, Diamond Beach, dan banyak lagi.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Pantai Indrayanti",
+    "city": "Yogyakarta",
+    "address": "Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta",
+    "distance": 500,
+    "price": 10000,
+    "maxGroupSize": 8,
+    "desc": "PANTAI Indrayanti merupakan objek wisata favorit wisatawan di Kabupaten Gunungkidul, Daerah Istimewa Yogyakarta. Pantai berpasir putih, dibatasi bukit karang, dan hamparan laut biru jadi pemandangan menakjubkan bagi pengunjung.Sebenarnya, Pantai Indrayanti memiliki nama asli Pantai Pulang Sawal. Hanya saja, masyarakat lebih mengenalnya sebagai Pantai Indrayanti, kenapa? Di sana, ada sebuah tempat makan yang ramai dikunjungi wisatawan yakni 'Warung Indrayanti', diambil dari nama istri sang pemilik warung. Lantaran wisatawan tak mengetahui nama asli pantai, jadilah pantai ini disebut Pantai Indrayanti.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Taman Safari Bogor",
+    "city": "Bogor",
+    "address": "Jalan Kapten Harun Kabir No.724, Cibeureum, Kec. Cisarua, Kabupaten Bogor, Jawa Barat",
+    "distance": 500,
+    "price": 150000,
+    "maxGroupSize": 8,
+    "desc": "Siap-siap untuk petualangan tak terlupakan di Taman Safari Indonesia Bogor! Kamu bisa mengendarai mobil pribadi atau naik bus Safari Park untuk merasasakan Safari Journey dan dibuat terkagum-kagum dengan hewan-hewan luar biasa, seperti macan, singa, unta, dan kuda nil yang berkeliaran bebas seperti di habitat alami mereka. Dengan lebih dari 3.000 hewan dari 300 spesies, Safari Journey yang super seru sudah menantimu! Rasakan sensasi memberi makan dan berinteraksi langsung dengan satwa-satwa ini.Tapi keseruan tidak berhenti di situ! Setelah Safari Journey, nikmati sekitar 20 wahana seru, presentasi satwa yang memikat, dan air terjun ikonik Curug Jaksa dengan airnya yang dingin dan menyejukkan. Jangan lewatkan kesempatan untuk melihat Cai Tao dan Hu Chun, dua panda raksasa satu-satunya di Indonesia! Taman Safari Indonesia Bogor adalah destinasi utama bagi pecinta satwa dan keluarga.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Taman Bunga Nusantara",
+    "city": "Cianjur",
+    "address": "Jl. Mariwati No.KM. 7, Kawungluwuk, Kec. Sukaresmi, Kabupaten Cianjur, Jawa Barat",
+    "distance": 700,
+    "price": 50000,
+    "maxGroupSize": 4,
+    "desc": "Taman Bunga Nusantara adalah sebuah taman bunga seluas 35 hektare yang terletak dekat Gunung Gede Pangrango dan Kebun Teh Bogor dengan jarak tempuh sekitar 2,5 - 3 jam perjalanan dari Jakarta, tepatnya berada di antara dua desa yaitu, Kawungluwuk, Sukaresmi, Cianjur dengan Sukawangi, Sukamakmur, Jonggol.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jaflong, Sylhet",
+    "city": "Sylhet",
+    "address": "Somewhere in Sylhet",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  },
+  {
+    "title": "Cox's Bazar Sea Beach",
+    "city": "Chittagong",
+    "address": "Somewhere in Chittagong",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  }
+]
